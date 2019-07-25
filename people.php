@@ -118,7 +118,7 @@ if(isset($_SESSION['email']))
 					   <!-- <div class="form-group"> -->
 					   		<div class="col-lg-1 col-md-1">
 					   		<button type="submit" class="btn btn-info btn-sm">	
-                                <span class="glyphicon glyphicon-user">		       Partner
+                                <span class="glyphicon glyphicon-user">		       Partner1
                                 </span>
 					   		</button>	 
 					   		</div>
